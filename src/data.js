@@ -7,7 +7,7 @@ export const movieList = [
     genre: "Action Thriller",
     rating: 8.4,
     plot: "A quiet café owner is forced to confront his violent past when a dangerous gang recognizes him as a legendary figure.",
-    poster :"./src/Images/Leo.jpg"
+    poster :"/Images/Leo.jpg"
   },
   {
     id: 2,
@@ -16,7 +16,7 @@ export const movieList = [
     genre: "Action Crime",
     color: "#3b2f2f",
     plot: "A powerful gangster fights his way through betrayal, rival gangs, and a dangerous criminal empire.",
-    poster: "./src/Images/Thuglife.jpg"
+    poster: "/Images/Thuglife.jpg"
   },
   {
     id: 3,
@@ -25,7 +25,7 @@ export const movieList = [
     genre: "Action Thriller",
     rating: 8.6,
     plot: "A mysterious black-ops team takes on a powerful drug syndicate while uncovering a much larger conspiracy.",
-    poster:"./src/Images/Vikram.jpg"
+    poster:"/Images/Vikram.jpg"
   },
   {
     id: 4,
@@ -34,7 +34,7 @@ export const movieList = [
     genre: "Action Comedy",
     rating: 7.5,
     plot: "A retired jailer is pulled back into action when his family becomes connected to a dangerous criminal network.",
-    poster:"./src/Images/Jailer.webp"
+    poster:"/Images/Jailer.webp"
   },
   {
     id: 5,
@@ -43,7 +43,7 @@ export const movieList = [
     genre: "Action Thriller",
     rating: 8.4,
     plot: "A recently released prisoner gets one chance to meet his daughter but becomes trapped in a dangerous night-long police operation.",
-    poster:"./src/Images/Kaithi.jpg"
+    poster:"/Images/Kaithi.jpg"
   },
   {
     id: 6,
@@ -52,7 +52,7 @@ export const movieList = [
     genre: "Action Drama",
     rating: 7.8,
     plot: "An alcoholic professor is sent to a juvenile detention center where he takes on a powerful criminal exploiting young inmates.",
-    poster:"./src/Images/Master.jpg"
+    poster:"/Images/Master.jpg"
   },
   {
     id: 7,
@@ -61,7 +61,7 @@ export const movieList = [
     genre: "Action",
     rating: 8.2,
     plot: "A legendary jailer returns to face a new threat that challenges everything he once protected.",
-    poster:"./src/Images/Jailer2.jpeg"
+    poster:"/Images/Jailer2.jpeg"
   },
   {
     id: 8,
@@ -70,7 +70,7 @@ export const movieList = [
     genre: "Action Drama",
     rating: 8.1,
     plot: "Two childhood friends are separated by power and politics before being pulled into a brutal war for a kingdom.",
-    poster:"./src/Images/Salaar.jpg"
+    poster:"/Images/Salaar.jpg"
   },
   {
     id: 9,
@@ -79,7 +79,7 @@ export const movieList = [
     genre: "Action Crime",
     rating: 8.4,
     plot: "Rocky rises to become the undisputed ruler of the Kolar Gold Fields while powerful enemies attempt to destroy his empire.",
-    poster:"./src/Images/KGF2.jpg"
+    poster:"/Images/KGF2.jpg"
   },
   {
     id: 10,
@@ -88,7 +88,7 @@ export const movieList = [
     genre: "Action Drama",
     rating: 7.6,
     plot: "A fearless laborer rises through the illegal red sandalwood trade and refuses to bow down to anyone.",
-    poster:"./src/Images/pushpa.webp"
+    poster:"/Images/pushpa.webp"
   },
   {
     id: 11,
@@ -97,7 +97,7 @@ export const movieList = [
     genre: "Action Drama",
     rating: 8.0,
     plot: "Two legendary revolutionaries from different backgrounds join forces and challenge British rule in a story of friendship and sacrifice.",
-    poster:"./src/Images/RRR.jpg"
+    poster:"/Images/RRR.jpg"
   },
   {
     id: 12,
@@ -106,7 +106,7 @@ export const movieList = [
     genre: "Action Mystery",
     rating: 8.6,
     plot: "A village man's life becomes connected to ancient traditions, powerful landowners, and a mysterious spiritual force.",
-    poster:"./src/Images/Kantara.jpg"
+    poster:"/Images/Kantara.jpg"
   }
 ];
 
